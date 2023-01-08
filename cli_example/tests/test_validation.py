@@ -4,7 +4,7 @@ from unittest import mock
 
 import pytest
 import argparse
-import unittest.mock
+
 
 from cli_example.validation import validate_args
 
